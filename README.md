@@ -1,6 +1,8 @@
 # Link--
 https://github.com/Espinosa-12/React-Assignment---NxtWave.git
 
+# Deploy link
+http://Espinosa-12.github.io/React-Assignment---NxtWave
 
 # Getting Started with Create React App
 
